@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Authors>Microsoft</Authors>
+    <Copyright>© Microsoft Corporation. All rights reserved.</Copyright>
+    <Description>Microsoft Azure WebJobs SDK EventHubsCustomExtension</Description>
   </PropertyGroup>
 
   <ItemGroup>
